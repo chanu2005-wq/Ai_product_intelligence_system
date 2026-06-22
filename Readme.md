@@ -1,6 +1,6 @@
 # 🛍️ AI Product Intelligence System
 
-An AI-powered Product Intelligence System built using **CLIP**, **BLIP**, and **FAISS** for understanding products from images and text. This project was developed as part of the **Gen AI Bootcamp – Day 2 Homework Challenge**.
+An AI-powered Product Intelligence System built using **CLIP**, **BLIP**, and **FAISS** for understanding products from images and text. This project was developed .
 
 ---
 
